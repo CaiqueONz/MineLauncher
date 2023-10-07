@@ -1,2 +1,3 @@
-# MineLauncher
-Launchs minecraft
+# Tlauncher
+Download Tlauncher
+NOTE THAT THIS PROJECT IS TO HELP YOU DOWLOAD TLAUNCHER, THIS IS NOT THE OFFICIAL DOWNLOAD.
